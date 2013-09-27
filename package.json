@@ -1,0 +1,10 @@
+{
+    "dependencies": {
+        "jsclass": "~4.0.2"
+    },
+    "scrips": {
+        "start": "node index.js",
+        "startFork": "node index-fork.js",
+        "req": "node index-req.js"
+    }
+}
